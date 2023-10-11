@@ -1,0 +1,20 @@
+{
+	"private": true,
+	"dependencies": {},
+  "pnpm": {
+    "overrides": {
+      "@glimmer/component": "^1.1.2",
+      "@glimmer/tracking": "^1.1.2",
+      "@glimmer/compiler": "^0.84.3",
+      "@glimmer/syntax": "^0.84.3",
+      "@glimmer/validator": "^0.84.3",
+      "@glimmer/reference": "^0.84.3",
+      "@glimmer/manager": "^0.84.3",
+      "@glimmer/interfaces": "^0.84.3"
+    }
+  },
+	"volta": {
+		"node": "18.18.1",
+		"pnpm": "8.9.0"
+	}
+}

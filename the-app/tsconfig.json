@@ -10,8 +10,8 @@
     "baseUrl": ".",
     "allowJs": true,
     "paths": {
-      "polaris-starter/tests/*": ["tests/*"],
-      "polaris-starter/*": ["app/*"],
+      "the-app/tests/*": ["tests/*"],
+      "the-app/*": ["app/*"],
       "*": ["types/*"]
     }
   },

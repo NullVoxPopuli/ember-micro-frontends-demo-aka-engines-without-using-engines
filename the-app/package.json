@@ -2,7 +2,7 @@
   "name": "the-app",
   "version": "0.0.0",
   "private": true,
-  "description": "Small description for polaris-starter goes here",
+  "description": "Small description for the-app goes here",
   "repository": "",
   "license": "MIT",
   "author": "",
@@ -99,6 +99,7 @@
   "dependencies": {
     "ember-modifier": "^4.1.0",
     "ember-resources": "^6.4.0",
+    "ember-route-template": "^1.0.1",
     "library": "workspace:^",
     "settings": "workspace:^",
     "tracked-built-ins": "^3.3.0"

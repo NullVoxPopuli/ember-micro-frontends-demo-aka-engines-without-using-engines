@@ -2,7 +2,7 @@
 
 module.exports = function (environment) {
   const ENV = {
-    modulePrefix: 'polaris-starter',
+    modulePrefix: 'the-app',
     environment,
     rootURL: '/',
     locationType: 'history',

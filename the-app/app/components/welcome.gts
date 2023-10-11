@@ -60,14 +60,14 @@ const Links = <template>
   <ul>
     <li>
       <a
-        href='https://stackblitz.com/github/nullVoxPopuli/polaris-starter/tree/main'
+        href='https://stackblitz.com/github/nullVoxPopuli/the-app/tree/main'
       > StackBlitz </a>
       <span> Try it on StackBlitz</span>
     </li>
 
     <li>
       <a
-        href='https://stackblitz.com/github/nullVoxPopuli/polaris-starter/tree/monorepo'
+        href='https://stackblitz.com/github/nullVoxPopuli/the-app/tree/monorepo'
       > StackBlitz (mono-repo) </a>
       <span> Try the mono-repo version on StackBlitz</span>
     </li>
@@ -82,7 +82,7 @@ const Links = <template>
 const Footer = <template>
   <div class='footer'>
     <a
-      href='https://github.com/NullVoxPopuli/polaris-starter/tree/main'
+      href='https://github.com/NullVoxPopuli/the-app/tree/main'
       class='github'
     >
       <img alt='' src='/images/github-logo.png' />

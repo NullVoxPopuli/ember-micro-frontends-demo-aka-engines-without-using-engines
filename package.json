@@ -1,6 +1,9 @@
 {
 	"private": true,
 	"dependencies": {},
+  "scripts": {
+    "build": "pnpm --filter '*' build"
+  },
   "pnpm": {
     "overrides": {
       "@glimmer/component": "^1.1.2",
